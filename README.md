@@ -1,6 +1,4 @@
-# Mr. Sahil Bapu Bhaidkar - Data Analyst & Data Scientist
-
-<img src="path/to/your/profile.jpg" alt="Sahil Bapu Bhaidkar" style="width:150px;height:150px;border-radius:50%;"/>
+# Mr. Sahil Bapu Bhaidkar - Data Analyst | Data Scientist
 
 ## Contact Information
 - **Email:** sahilbhaidkar7@gmail.com
