@@ -78,8 +78,13 @@ A highly skilled **Data Analyst** with a strong background in **Data Analytics**
 - Integrated with existing systems to facilitate seamless **data exchange** and **real-time updates**.
 - Conducted user training sessions and provided ongoing support to ensure successful adoption of the application.
 
-### Image Captioning Project
-- Trained an **image captioning model** using the **Flicker8k dataset** and a **CNN-LSTM architecture**.
+### Image Captioning using Deep Learning
+- Developed an image captioning model leveraging the **Flickr8k dataset**, comprising 8091 images with 5 captions each.
+- Employed **preprocessing techniques** including **cleaning, tokenization and feature extraction** using the **VGG16 model**.
+- Designed a **neural network architecture** combining **LSTM** for textual data and dense layers for image features.
+- Implemented training using **TensorFlow** and **Keras**, achieving competitive **BLEU** scores for caption generation.
+- Applied techniques to mitigate **overfitting** and **evaluated model performance** through visualization of training/validation loss.
+- Demonstrated proficiency in **deep learning, natural language processing, and model evaluation**.
 
 ## Certifications
 - **[Web Apps with Firebase (Google)](https://developers.google.com/profile/badges/playlists/firebase/web-apps-with-firebase)** - Mar 2024 
