@@ -6,7 +6,7 @@
 - **<img src="https://img.icons8.com/?size=100&id=TbYB18NajuPX&format=png&color=000000" width="24" height="24"/> LinkedIn:** [linkedin.com/in/sahil-bhaidkar](https://www.linkedin.com/in/sahil-bhaidkar)
 - **<img src="https://img.icons8.com/?size=100&id=NmJSSOvL7xYu&format=png&color=000000" width="24" height="24"/> GitHub:** [github.com/sahil-bhaidkar](https://github.com/sahil-bhaidkar)
 
-<a href="https://flowcv.com/resume/0iss5cpans" download="Sahil_Bapu_Bhaidkar_Resume.pdf">
+<a href="https://flowcv.com/resume/0iss5cpans" download="Sahil_Bapu_Bhaidkar_Resume.pdf" target="_blank">
   <button style="padding: 10px 20px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer; display: flex; align-items: center;margin-top: 20px; margin-left: 50px"><b>Grab My Resume</b>
   </button>
 </a>
