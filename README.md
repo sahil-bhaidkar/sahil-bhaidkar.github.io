@@ -16,22 +16,19 @@ A highly skilled **Data Analyst** with a strong background in **Data Analytics**
 
 ## Skills
 
-| Technical Skills                              | Software Skills            | Soft Skills          |
-| --------------------------------------------- | -------------------------- | -------------------- |
-| Statistical Methods                           | Microsoft Office Suite     | Communication Skills |
-| Machine Learning Algorithms                   | Adobe Creative Suite       | Time Management      |
-| Supervised and Unsupervised ML Algorithms     | Tableau                    | Teamwork             |
-| Data Sanitation                               | SAP                        | Problem-solving      |
-| Natural Language Processing (NLP)             | Power BI                   | Adaptability         |
-| Data Modeling                                 | Jupyter Notebook           | Creativity         |
-| SQL                                           | Power Platform             | Emotional Intelligence |
-| Python                                        | Power Automate             | Critical Thinking |
-| Power BI                                      | Power Apps                 | Decision Making    |
-| Jupyter Notebook                              | Google Firebase            |                      |
-| Power Platform                                | AWS Cloud                  |                      |
-| Power Automate                                | Linux                      |                      |
-| Power Apps                                    |                            |                      |
-| Google Firebase                               |                            |                      |
+| Technical Skills                              | Software Skills            | Soft Skills             |
+| --------------------------------------------- | -------------------------- | ----------------------- |
+| Statistical Methods                           | Tableau                    | Communication Skills    |
+| Machine Learning Algorithms                   | SAP                        | Time Management         |
+| Supervised and Unsupervised ML Algorithms     | Power BI                   | Teamwork                |
+| Data Sanitation                               | Jupyter Notebook           | Problem-solving         |
+| Natural Language Processing (NLP)             | Power Platform             | Adaptability            |
+| Data Modeling                                 | Power Automate             | Creativity              |
+| SQL                                           | Power Apps                 | Emotional Intelligence  |
+| Python                                        | Google Firebase            | Critical Thinking       |
+|                                               | AWS Cloud                  | Decision Making         |
+|                                               | Linux                      |                         |
+|                                               | Microsoft Office 365       |                         |
 
 ## Languages
 - **English:** Full Professional Proficiency
