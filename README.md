@@ -5,7 +5,7 @@
 - **<img src="https://img.icons8.com/?size=100&id=0D18hLDbv2qZ&format=png&color=000000" width="24" height="24"/> Location:** Thane, Maharashtra, India
 - **<img src="https://img.icons8.com/?size=100&id=TbYB18NajuPX&format=png&color=000000" width="24" height="24"/> LinkedIn:** [linkedin.com/in/sahil-bhaidkar](https://www.linkedin.com/in/sahil-bhaidkar)
 - **<img src="https://img.icons8.com/?size=100&id=NmJSSOvL7xYu&format=png&color=000000" width="24" height="24"/> GitHub:** [github.com/sahil-bhaidkar](https://github.com/sahil-bhaidkar)
-
+---
 **Objective:**  
 Detail-oriented Data Analyst with hands-on experience in data quality checks, workflow automation, and machine learning model development. Skilled in Python, SQL, Power BI, and SAP, with a proven ability to deliver actionable insights, streamline processes, and support data-driven decision-making. Seeking to leverage technical expertise and analytical problem-solving skills in a challenging Data Analyst role to drive business performance and innovation.
 
