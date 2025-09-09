@@ -1,4 +1,4 @@
-# Mr. Sahil Bapu Bhaidkar<br>[Data Analyst | Data Scientist]
+# Mr. Sahil Bapu Bhaidkar<br>(Data Analyst | Data Scientist)
 ## Contact Information
 - **<img src="https://img.icons8.com/?size=100&id=DW1F1r7XLu9m&format=png&color=000000" width="24" height="24"/> Email:** [sahilbhaidkar7@gmail.com](mailto:sahilb.bhaidkar@gmail.com)
 - **<img src="https://img.icons8.com/?size=100&id=96668&format=png&color=000000" width="24" height="24"/> Phone:** +91 <b>9136208573</b>
