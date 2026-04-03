@@ -298,16 +298,102 @@ footer { border-top: 1px solid var(--border); padding: 30px 60px; max-width: 120
 .reveal { opacity: 0; transform: translateY(28px); transition: opacity 0.7s ease, transform 0.7s ease; }
 .reveal.visible { opacity: 1; transform: translateY(0); }
 
-@media (max-width: 900px) {
-  nav { padding: 18px 24px; }
-  .nav-links { gap: 20px; }
-  .hero { grid-template-columns: 1fr; padding: 120px 24px 60px; gap: 48px; }
-  .hero-right { max-width: 320px; }
+/* ── LAPTOP (1024px – 1199px) ── */
+@media (max-width: 1199px) {
+  nav { padding: 20px 40px; }
+  .hero { padding: 130px 40px 80px; gap: 60px; grid-template-columns: 1fr 340px; }
+  .section { padding: 90px 40px; }
+  footer { padding: 28px 40px; }
+}
+
+/* ── TABLET LANDSCAPE (768px – 1023px) ── */
+@media (max-width: 1023px) {
+  nav { padding: 18px 32px; }
+  .nav-links { gap: 24px; }
+  .nav-links a { font-size: 12px; }
+  .hero { grid-template-columns: 1fr 300px; padding: 120px 32px 70px; gap: 48px; }
+  .hero h1 { font-size: clamp(40px, 5vw, 60px); }
+  .hero-tagline { font-size: 15px; }
+  .section { padding: 80px 32px; }
+  .section-title { font-size: 34px; }
+  .skills-grid { grid-template-columns: repeat(4, 1fr); }
+  .contact-grid { gap: 40px; }
+  footer { padding: 24px 32px; }
+}
+
+/* ── TABLET PORTRAIT (600px – 767px) ── */
+@media (max-width: 767px) {
+  nav { padding: 16px 24px; }
+  .nav-links { gap: 16px; }
+  .nav-links a { font-size: 11px; letter-spacing: 0.05em; }
+  .hero { grid-template-columns: 1fr; padding: 110px 24px 60px; gap: 40px; }
+  .hero-right { max-width: 340px; margin: 0 auto; width: 100%; }
+  .hero h1 { font-size: clamp(36px, 7vw, 52px); }
+  .hero-tagline { font-size: 15px; max-width: 100%; }
   .section { padding: 70px 24px; }
+  .section-title { font-size: 30px; }
   .skills-grid { grid-template-columns: repeat(2, 1fr); }
-  .projects-grid { grid-template-columns: 1fr; }
-  .contact-grid { grid-template-columns: 1fr; }
-  footer { padding: 24px; flex-direction: column; gap: 8px; text-align: center; }
+  .contact-grid { grid-template-columns: 1fr; gap: 36px; }
+  .contact-intro { font-size: 26px; }
+  .timeline-role { font-size: 22px; }
+  footer { padding: 20px 24px; flex-direction: column; gap: 8px; text-align: center; }
+}
+
+/* ── MOBILE LARGE (480px – 599px) ── */
+@media (max-width: 599px) {
+  nav { padding: 14px 16px; }
+  .nav-links { gap: 12px; }
+  .nav-links a { font-size: 10px; }
+  .nav-logo { font-size: 18px; }
+  .hero { padding: 100px 16px 48px; gap: 32px; }
+  .hero-right { max-width: 100%; }
+  .hero h1 { font-size: clamp(32px, 8vw, 44px); }
+  .hero-eyebrow { font-size: 11px; }
+  .hero-tagline { font-size: 14px; }
+  .btn { padding: 12px 20px; font-size: 12px; }
+  .hero-stats { grid-template-columns: repeat(4, 1fr); }
+  .stat { padding: 14px 8px; }
+  .stat-num { font-size: 22px; }
+  .stat-label { font-size: 9px; }
+  .section { padding: 56px 16px; }
+  .section-title { font-size: 28px; }
+  .skills-grid { grid-template-columns: repeat(2, 1fr); }
+  .skill-card { padding: 24px 16px; }
+  .timeline { padding-left: 24px; }
+  .timeline-dot { left: -32px; }
+  .timeline-role { font-size: 20px; }
+  .timeline-achievements li { font-size: 14px; }
+  .contact-intro { font-size: 24px; }
+  footer { padding: 16px; font-size: 11px; }
+}
+
+/* ── MOBILE SMALL (≤479px) ── */
+@media (max-width: 479px) {
+  .nav-links { gap: 8px; }
+  .nav-links a { font-size: 9px; letter-spacing: 0.03em; }
+  .nav-logo { font-size: 16px; }
+  .hero { padding: 90px 14px 40px; }
+  .hero h1 { font-size: clamp(28px, 9vw, 38px); letter-spacing: -0.5px; }
+  .hero-cta { flex-direction: column; }
+  .btn { width: 100%; justify-content: center; }
+  .hero-stats { grid-template-columns: repeat(2, 1fr); }
+  .stat-num { font-size: 26px; }
+  .stat-label { font-size: 10px; }
+  .section { padding: 48px 14px; }
+  .section-title { font-size: 26px; }
+  .skills-grid { grid-template-columns: 1fr 1fr; }
+  .skill-card { padding: 20px 12px; }
+  .skill-icon { font-size: 22px; }
+  .skill-name { font-size: 11px; }
+  .skill-desc { font-size: 11px; }
+  .timeline { padding-left: 20px; }
+  .timeline-dot { left: -28px; width: 8px; height: 8px; }
+  .timeline-role { font-size: 18px; }
+  .timeline-period { font-size: 10px; }
+  .timeline-achievements li { font-size: 13px; }
+  .contact-intro { font-size: 22px; }
+  .contact-link { padding: 18px 20px; font-size: 14px; }
+  footer { padding: 14px; }
 }
 </style>
 </head>
